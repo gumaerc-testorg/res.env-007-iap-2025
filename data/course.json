@@ -1,0 +1,53 @@
+{
+  "term": "January IAP",
+  "year": "2025",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Renewables"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "b8d9f1ce-d454-42f7-99cc-2cfe8838414d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d1966cfa-db97-47a2-ad23-7d3dd4ceeec8",
+    "website": "geothermal-energy-networks-transforming-our-thermal-energy-system"
+  },
+  "course_title": "Geothermal Energy Networks: Transforming Our Thermal Energy System",
+  "hide_download": false,
+  "mit_learn_topics": [
+    [
+      "Energy, Climate & Sustainability",
+      "Energy"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering"
+    ]
+  ],
+  "course_description": "This two-day course, a collaboration between the HEET (Home Energy Efficiency Team) and MIT, focuses on \"Geothermal Energy Networks: Transforming our Thermal Energy System\" during the Independent Activities Period (IAP) in January 2025.",
+  "department_numbers": [
+    "SP"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "res.env-007",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Lecture Videos"
+  ],
+  "site_uid": "3379bbff-b822-47fd-b1e3-4a5588f3db4a",
+  "site_short_id": "res.env-007-iap-2025",
+  "site_url_path": "courses/res-env-007-geothermal-energy-networks-transforming-our-thermal-energy-system-january-iap-2025"
+}

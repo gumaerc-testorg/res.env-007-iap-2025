@@ -1,0 +1,37 @@
+leftnav:
+- identifier: dfde8e9f-5fae-40c7-b3b9-89114cbc4070
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8025c5fc-ccd1-4640-9335-22d912a40205
+  name: 'Session 1: Framing the Challenge'
+  pageRef: /pages/session-1-framing-the-challenge
+  weight: 20
+- identifier: 87e7b4ba-fbdd-4776-a53f-60a61e7f3a47
+  name: 'Session 2: People Landscape for Geothermal Energy Networks (GENs)'
+  pageRef: /pages/session-2-people-landscape-for-geothermal-energy-networks-gens
+  weight: 30
+- identifier: 8339da6f-aa54-4c65-83b2-d1f993668a2d
+  name: 'Session 3: Policy Landscape for Geothermal Energy Networks'
+  pageRef: /pages/session-3-policy-landscape-for-geothermal-energy-networks
+  weight: 40
+- identifier: a95cfa88-78c4-4eca-abfd-c6150ad33fcc
+  name: 'Session 4: Scaling Geothermal Energy Networks'
+  pageRef: /pages/session-4-scaling-geothermal-energy-networks
+  weight: 50
+- identifier: 37d75a61-f827-4ec9-8da2-de68cdd41fff
+  name: 'Session 5: Design Principles of Geothermal Energy Networks'
+  pageRef: /pages/session-5-design-principles-of-geothermal-energy-networks
+  weight: 60
+- identifier: 96123706-5a3a-490a-b376-39865e9159e1
+  name: 'Session 6: Construction and Commissioning of Geothermal Energy Networks'
+  pageRef: /pages/session-6-construction-and-commissioning-of-geothermal-energy-networks
+  weight: 70
+- identifier: 8cdae09c-124c-4ea4-b93f-703d2e2d75d6
+  name: 'Session 7: Researching Geothermal Energy Networks and their Impacts'
+  pageRef: /pages/session-7-researching-geothermal-energy-networks-and-their-impacts
+  weight: 80
+- identifier: d7de47f2-155c-406b-947a-11744938ab15
+  name: 'Session 8: Case Studies of Geothermal Energy Networks'
+  pageRef: /pages/session-8-case-studies-of-geothermal-energy-networks
+  weight: 90
