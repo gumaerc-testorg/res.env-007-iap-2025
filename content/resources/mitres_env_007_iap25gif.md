@@ -8,10 +8,10 @@ file_type: image/gif
 image_metadata:
   caption: 'Geothermal heat pumps (GHPs) take advantage of the constant underground
     temperatures to efficiently heat homes in the winter and cool homes in the summer.
-    (Source: [U.S. Department of Energy](https://www.energy.gov/eere/geothermal/geothermal-heat-pumps)/public
-    domain)'
-  credit: 'Source: [U.S. Department of Energy](https://www.energy.gov/eere/geothermal/geothermal-heat-pumps)/public
-    domain'
+    (Source: {{% resource_link "a13d26ea-7e5f-42e0-9222-a7526e7951d3" "U.S. Department
+    of Energy" %}}/public domain)'
+  credit: 'Source: {{% resource_link "a13d26ea-7e5f-42e0-9222-a7526e7951d3" "U.S.
+    Department of Energy" %}}/public domain'
   image-alt: A house exchanging heat underground, demonstrating how a geothermal heat
     pump works in summer and winter
 learning_resource_types: []
